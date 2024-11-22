@@ -10,4 +10,6 @@ git commit [Confirma los cambios realizados del stage]
 git push Realiza los cambios en el repositorio
 code . (indica que abra la carpeta del directorio)
 
-rm Elimina un archivo
+rm [ARCHIVO] Elimina un archivo pero dejando cambios en stage
+git rm [ARCHIVO] Elimina sin dejar cambios en stage
+mv [ARCHIVO] [NUEVO NOMBRE ] renombra un archivo
