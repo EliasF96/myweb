@@ -1,0 +1,13 @@
+git config --global user.name "Elias Ferrufino"
+git config --global user.email elias_delbajo@hotmail.com
+git congit --global core.editor "code --wait" (indica que la terminal esperará a que se cierre el editor)
+git config --global core.autocrlf true|input true Windows input MAC
+
+git init crea un repositorio en el lugar que se encuentra
+git ls -a muestra todo los archivos y ocultos
+git add [Seleccionar los archivos a pasar a estado de stage]
+git commit [Confirma los cambios realizados del stage]
+git push Realiza los cambios en el repositorio
+code . (indica que abra la carpeta del directorio)
+
+Sample Text
