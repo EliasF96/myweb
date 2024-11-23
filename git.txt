@@ -13,3 +13,9 @@ code . (indica que abra la carpeta del directorio)
 rm [ARCHIVO] Elimina un archivo pero dejando cambios en stage
 git rm [ARCHIVO] Elimina sin dejar cambios en stage
 mv [ARCHIVO] [NUEVO NOMBRE ] renombra un archivo
+git status -s MUESTRA ESTADO SIMPLE
+git diff muestra los cambios en los archivos 
+hay 3 indicadores en el dff, 1ro es el comieno, 2do linea final y el 3ro cantidad de lineas modificidas 
+git diff --stage MUESTRA LOS CAMBIOS EN LA ESTAPA DE STAGE
+git log MUESTRA EL HISTORIAL DE CAMBIOS DETALLADAMENTE CON NOMBRE Y CORREO
+git log --oneline MUESTRA HISTORIAL SIMPLIICADO
