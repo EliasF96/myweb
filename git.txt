@@ -19,3 +19,5 @@ hay 3 indicadores en el dff, 1ro es el comieno, 2do linea final y el 3ro cantida
 git diff --stage MUESTRA LOS CAMBIOS EN LA ESTAPA DE STAGE
 git log MUESTRA EL HISTORIAL DE CAMBIOS DETALLADAMENTE CON NOMBRE Y CORREO
 git log --oneline MUESTRA HISTORIAL SIMPLIICADO
+git branch Indica que ramas existen
+git checkout -b [Nombre] CREA NUEVA RAMA
